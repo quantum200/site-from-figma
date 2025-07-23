@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Header from './components/header.jsx';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
   return (
     <>
         <Header />
+
     </>
   )
 }
